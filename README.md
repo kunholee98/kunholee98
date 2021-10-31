@@ -3,14 +3,15 @@
 <br />
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
-  <p>Tech that I've used at least once</p>
-  <br />
+  <i>Tech that I've used at least once</i>
   <div>
     <img src="https://img.shields.io/badge/Python-1e415e?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-5f92c6?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-005694?style=flat&logo=C%2b%2b&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-46caf3?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ebd519?style=flat&logo=Javascript&logoColor=white&fontColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-d84b26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-148bc8?style=flat&logo=css3&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Prisma-27313f?style=flat&logo=prisma&logoColor=white"/>
