@@ -20,12 +20,10 @@
     <img src="https://img.shields.io/badge/SQlite3-8dd1e4?style=flat&logo=sqlite&logoColor=white"/>
   </div>
 </div>
+<br />
 <div align="center">
 <h4> 📚 What I do in 2021 🗓 </h4>
-</div>
-<h5 margin-left=50px>1. 그림은 내 취미: DrawBy</h5>
-
-- 그림을 공유할 수 있는 SNS 플랫폼 with ApolloGraphQL, React.js　　　　　　　　　　　　　　　
+<h5>1. 그림은 내 취미: DrawBy</h5>　　　　　　　　　　　　　
 <a href="https://github.com/kunholee98/DrawBy">
 <img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
 </a>
@@ -34,11 +32,10 @@
 </a>
 
 <h5> 2. 클라우드 네이티브 환경에서 네트워크 지연시간 기반 쿠버네티스 스케쥴링 🕸</h5>
-
-- 클러스터 내 컴퓨터간의 네트워크 지연시간을 기반으로 파드를 배치하는 Customized Scheduler
-<a href="">
+<a href="https://github.com/kunholee98/k8s-scheduling-based-on-networking-latency-in-cloud-native-computing-platform">
 <img src="https://img.shields.io/badge/K8S_Scheduling_based_on_Networking_Latency_in_Cloud Native_Computing_Platform-FFAA00?style=flat-square&logo=&logoColor=white"/>
 </a>
+  </div>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
