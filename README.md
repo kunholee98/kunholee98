@@ -1,8 +1,8 @@
+
 <img src=https://capsule-render.vercel.app/api?type=transparent&text=KunVeloper_😉&fontColor=004070&desc=개발자들의%20개발자가%20되고싶은%20이건호%20입니다!&descAlign=42&descAlignY=95 />
 <br />
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
-  <br />
   <p>Tech that I've used at least once</p>
   <br />
   <div>
