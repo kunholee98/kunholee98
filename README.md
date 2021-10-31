@@ -1,9 +1,9 @@
-<br />
 <img src=https://capsule-render.vercel.app/api?type=transparent&text=KunVeloper_😉&fontColor=004070&desc=개발자들의%20개발자가%20되고싶은%20이건호%20입니다!&descAlign=42&descAlignY=95 />
 <br />
-<div align="center">#### 🛠 Tech Stack 🛠
+<div align="center">
+  <h3>🛠 Tech Stack 🛠</h3>
   <br />
-  _Tech that I've used at least once_
+  <p>Tech that I've used at least once</p>
   <br />
   <div>
     <img src="https://img.shields.io/badge/Python-1e415e?style=flat&logo=Python&logoColor=white"/>
