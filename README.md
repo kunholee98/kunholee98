@@ -22,14 +22,20 @@
 </div>
 <div align="center">
 <h4> 📚 What I do in 2021 🗓 </h4>
-<p>그림은 내 취미: DrawBy ✏️</p><a href="https://github.com/kunholee98/DrawBy">
-<img src="https://img.shields.io/badge/Backend-6e61c3?style=flat&logo&logoColor=white"/></a>
-<a href="https://github.com/kunholee98/DrawBy-web">
-<img src="https://img.shields.io/badge/Frontend-e775a6?style=flat&logo&logoColor=white"/></a>
+<p>그림은 내 취미: DrawBy ✏️</p>
+  <div>
+    <a href="https://github.com/kunholee98/DrawBy">
+      <img src="https://img.shields.io/badge/Backend-6e61c3?style=flat&logo&logoColor=white"/>
+    </a>
+    <a href="https://github.com/kunholee98/DrawBy-web">
+      <img src="https://img.shields.io/badge/Frontend-e775a6?style=flat&logo&logoColor=white"/>
+    </a>
+  </div>
 <p>클라우드 네이티브 환경에서 네트워크 지연시간 기반 쿠버네티스 스케쥴링 🕸</p>
-<a href="">
-<img src="https://img.shields.io/badge/K8S_Scheduling_based_on_Networking_Latency_in_Cloud Native_Computing_Platform-8dd1e4?style=flat&logo=&logoColor=white"/>
+<div><a href="https://github.com/kunholee98/k8s-scheduling-based-on-networking-latency-in-cloud-native-computing-platform">
+<img src="https://img.shields.io/badge/K8S_Scheduler-8dd1e4?style=flat&logo=&logoColor=white"/>
 </a>
+  </div>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
