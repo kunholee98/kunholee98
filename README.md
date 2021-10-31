@@ -1,5 +1,5 @@
 <br />
-<img src=https://capsule-render.vercel.app/api?type=transparent&text=KunVeloper_😉&fontColor=004070&desc=개발자들의%20개발자가%20되고싶은%20이건호%20입니다!&descAlign=42&descAlignY=95 />
+<img src=https://capsule-render.vercel.app/api?type=soft&text=KunVeloper_😉&fontColor=FAFAFA&color=004070&height=150&desc=개발자들의%20WannaBe가%20되고싶은%20이건호%20입니다!&descAlign=44&descAlignY=80 />
 <br />
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
@@ -21,23 +21,24 @@
   </div>
 </div>
 <div align="center">
-<h3> 📚 What I do in 2021 🗓 </h3>
-  <div display=flex>
-    <p>그림은 내 취미: DrawBy ✏️</p>
-    <a href="https://github.com/kunholee98/DrawBy">
-      <img src="https://img.shields.io/badge/Backend-6e61c3?style=flat&logo&logoColor=white"/>
-    </a>
-    <a href="https://github.com/kunholee98/DrawBy-web">
-      <img src="https://img.shields.io/badge/Frontend-e775a6?style=flat&logo&logoColor=white"/>
-    </a>
-  </div>
-  <div display=flex>
-    <p>클라우드 네이티브 환경에서 네트워크 지연시간 기반 쿠버네티스 스케쥴링 🕸</p>
-    <a href="https://github.com/kunholee98/k8s-scheduling-based-on-networking-latency-in-cloud-native-computing-platform">
-      <img src="https://img.shields.io/badge/K8S_Scheduler-8dd1e4?style=flat&logo=&logoColor=white"/>
-    </a>
-  </div>
+<h4> 📚 What I do in 2021 🗓 </h4>
 </div>
+<h5 margin-left=50px>1. 그림은 내 취미: DrawBy</h5>
+
+- 그림을 공유할 수 있는 SNS 플랫폼 with ApolloGraphQL, React.js　　　　　　　　　　　　　　　
+<a href="https://github.com/kunholee98/DrawBy">
+<img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
+</a>
+<a href="https://github.com/kunholee98/DrawBy-web">
+<img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
+</a>
+
+<h5> 2. 클라우드 네이티브 환경에서 네트워크 지연시간 기반 쿠버네티스 스케쥴링 🕸</h5>
+
+- 클러스터 내 컴퓨터간의 네트워크 지연시간을 기반으로 파드를 배치하는 Customized Scheduler
+<a href="">
+<img src="https://img.shields.io/badge/K8S_Scheduling_based_on_Networking_Latency_in_Cloud Native_Computing_Platform-FFAA00?style=flat-square&logo=&logoColor=white"/>
+</a>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
