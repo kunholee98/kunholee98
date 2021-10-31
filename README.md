@@ -23,7 +23,8 @@
 <br />
 <div align="center">
 <h4> 📚 What I do in 2021 🗓 </h4>
-<h5>1. 그림은 내 취미: DrawBy</h5>　　　　　　　　　　　　　
+<h5>1. 그림은 내 취미: DrawBy</h5>
+  
 <a href="https://github.com/kunholee98/DrawBy">
 <img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
 </a>
@@ -32,6 +33,7 @@
 </a>
 
 <h5> 2. 클라우드 네이티브 환경에서 네트워크 지연시간 기반 쿠버네티스 스케쥴링 🕸</h5>
+
 <a href="https://github.com/kunholee98/k8s-scheduling-based-on-networking-latency-in-cloud-native-computing-platform">
 <img src="https://img.shields.io/badge/K8S_Scheduling_based_on_Networking_Latency_in_Cloud Native_Computing_Platform-FFAA00?style=flat-square&logo=&logoColor=white"/>
 </a>
