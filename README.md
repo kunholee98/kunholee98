@@ -5,17 +5,17 @@
 #### <center> 🛠 Tech Stack 🛠 </center>
 <center>_Tech that I've used at least once_</center>
 <center>
-<img src="https://img.shields.io/badge/Python-1e415e?style=flat&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C-5f92c6?style=flat&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-005694?style=flat&logo=C%2b%2b&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-46caf3?style=flat&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-ebd519?style=flat&logo=Javascript&logoColor=white&fontColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-1e415e?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-5f92c6?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-005694?style=flat&logo=C%2b%2b&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-46caf3?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ebd519?style=flat&logo=Javascript&logoColor=white&fontColor=white"/>
 </center>
 <center>
-<img src="https://img.shields.io/badge/Prisma-27313f?style=flat&logo=prisma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ApolloGraphQL-a300f0?style=flat&logo=apollographql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-2e67d9?style=flat&logo=kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SQlite3-8dd1e4?style=flat&logo=sqlite&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Prisma-27313f?style=flat&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApolloGraphQL-a300f0?style=flat&logo=apollographql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-2e67d9?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQlite3-8dd1e4?style=flat&logo=sqlite&logoColor=white"/>
 </center>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
