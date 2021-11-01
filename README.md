@@ -40,12 +40,18 @@
   </div>
   <br />
 <div align="center">
-<h3>What I did before 👍</h3>
-<h5>1. 위험감지 비상구 유도등 장치</h5>
+<h3>✌️ What I did before ✌️</h3>
+<h5>1. 위험감지 비상구 유도등 장치 특허 출원</h5>
 
 ![1020140180582](https://user-images.githubusercontent.com/77374551/139627193-a83e7cc7-99d1-4cc3-8349-d6a1f0bc9954.png)
 
-
+<h5>2. 골든타임 확보를 위한 3D 화재안전지도 실시간 공유 서비스 in NET 챌린지 시즌 5</h5>
+<a href="https://m.etnews.com/20181211000085">
+<img src="https://img.shields.io/badge/The_News-999999?style=flat-square&logo=&logoColor=white"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/3D_Fire_Safety_Map_With_PlayCanvas-AA3222?style=flat-square&logo=&logoColor=white"/>
+</a>
 </div>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
