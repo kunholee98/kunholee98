@@ -31,6 +31,9 @@
 <a href="https://github.com/kunholee98/DrawBy-web">
 <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
 </a>
+<a href="https://github.com/kunholee98/DrawBy-Native">
+<img src="https://img.shields.io/badge/React_Native-FFAA00?style=flat-square&logo=&logoColor=white"/>
+</a>
 
 <h5> 2. 클라우드 네이티브 환경에서 네트워크 지연시간 기반 쿠버네티스 스케쥴링 🕸</h5>
 
