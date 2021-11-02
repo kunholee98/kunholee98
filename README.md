@@ -62,9 +62,10 @@
   <br />
   
   <h3>About me 🙆</h3>
-  
-<img src="https://img.shields.io/badge/Instagram-db3176?style=flat-square&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/My_Blog-84a7ac?style=flat-square&logo=bookstack&logoColor=white"/>
+  <a href="https://www.instagram.com/kunolee_98/">
+<img src="https://img.shields.io/badge/Instagram-db3176?style=flat-square&logo=instagram&logoColor=white"/> </a>
+<a href="https://khlee98.tistory.com">
+  <img src="https://img.shields.io/badge/My_Blog-84a7ac?style=flat-square&logo=bookstack&logoColor=white"/> </a>
 </div>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
