@@ -57,6 +57,11 @@
 <img src="https://img.shields.io/badge/3D_Fire_Safety_Map_With_PlayCanvas-AA3222?style=flat-square&logo=&logoColor=white"/>
 </a>
 </div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Instagram-db3176?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/My_Blog-84a7ac?style=flat-square&logo=bookstack&logoColor=white"/>
+</div>
 <!--
 **kunholee98/kunholee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
