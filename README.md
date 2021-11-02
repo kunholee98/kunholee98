@@ -59,6 +59,9 @@
 </div>
 
 <div align="center">
+  <br />
+  
+  <span>About me 🙆</span>
 <img src="https://img.shields.io/badge/Instagram-db3176?style=flat-square&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/My_Blog-84a7ac?style=flat-square&logo=bookstack&logoColor=white"/>
 </div>
