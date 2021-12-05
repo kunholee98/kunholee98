@@ -29,7 +29,7 @@
 <a href="https://github.com/kunholee98/DrawBy">
 <img src="https://img.shields.io/badge/Backend-004070?style=flat-square&logo=&logoColor=white"/>
 </a>
-<a href="https://github.com/kunholee98/drawby-frontend">
+<a href="https://github.com/MinGookK/drawby-frontend">
 <img src="https://img.shields.io/badge/Frontend-309030?style=flat-square&logo=&logoColor=white"/>
 </a>
 <a href="https://github.com/kunholee98/DrawBy-Native">
