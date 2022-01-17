@@ -1,5 +1,5 @@
 <br />
-<img src=https://capsule-render.vercel.app/api?type=soft&text=KunVeloper_😉&fontColor=FAFAFA&color=004070&height=150&desc=개발자들의%20WannaBe가%20되고싶은%20이건호%20입니다!&descAlign=44&descAlignY=80 />
+<img src=https://capsule-render.vercel.app/api?type=soft&text=KunVeloper_😉&fontColor=FAFAFA&color=004070&height=150&desc=시작을%20좋아하는%20개발자%20이건호%20입니다!&descAlign=44&descAlignY=80 />
 <br />
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
